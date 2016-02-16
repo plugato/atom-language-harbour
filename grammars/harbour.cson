@@ -23,7 +23,6 @@
     'end': '\\*/'
     'patterns': [
       { 'include': '#block_doc_comment' }
-      { 'include': '#block_comment' }
     ]
   }
   'line_doc_comment': {
